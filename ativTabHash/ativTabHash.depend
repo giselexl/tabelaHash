@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1728312573 source:c:\users\fernanda\desktop\ativtabhash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabHash.h"
+
+1728311032 source:c:\users\fernanda\desktop\ativtabhash\tabhash.c
+	<stdlib.h>
+	<stdio.h>
+	"tabHash.h"
+
+1728300923 c:\users\fernanda\desktop\ativtabhash\tabhash.h
+
